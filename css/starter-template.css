@@ -1,0 +1,13 @@
+body {
+  padding-top: 50px;  
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif; 
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+h1 {font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;  font-size: 40px; font-style: normal; font-variant: normal; font-weight: 100; line-height: 40px; }
+
+p .lead {
+  font-weight: 500;
+}
